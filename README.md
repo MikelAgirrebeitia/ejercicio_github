@@ -3,5 +3,6 @@
 #Para ello seguiremos los siguientes pasos
 1
 2
-3
+3. QUiero analizar outliers
+4. Quiero hacer descritivos
 
